@@ -1,1 +1,1 @@
-# ubuntumadesimple.com
+ubuntumadesimple.com
