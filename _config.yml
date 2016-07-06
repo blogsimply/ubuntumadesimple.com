@@ -8,7 +8,7 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 'http://ubuntumadesimple.com'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-1118492-14'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
