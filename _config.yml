@@ -1,19 +1,16 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+name: Ubuntu Made Simple
+description: Simple tutorials on Ubuntu and related Linux distros!
+meta_description: "Simple tutorials on Ubuntu and related Linux distros!"
 
-# Site settings
-title: Ubuntu Made Simple
-email: info@ubuntumadesimple.com
-description: > # this means to ignore newlines until "baseurl:"
-  Simple tutorials on Ubuntu and related Linux distros!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ubuntumadesimple.com" # the base hostname & protocol for your site
-twitter_username: 
-github_username:  
-
-# Build settings
 markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://ubuntumadesimple.com'
+google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'http://ubuntumadesimple.com/'
+author:         'Ubuntu Made Simple'
