@@ -3,7 +3,7 @@ description: Simple tutorials on Ubuntu and related Linux distros!
 meta_description: "Simple tutorials on Ubuntu and related Linux distros!"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
