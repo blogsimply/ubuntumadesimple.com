@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "LXLE 16.04 Beta Preview"
+categories: Ubuntu Screencast
+---
+
+The LXLE Desktop is a new lightweight desktop environment that focuses on speed, elegance, and familiarity. Here's a preview of their Ubuntu-based 16.04 release. Watch the video and see if this is something you'd be interested in trying out. If you like what you see, you can download LXLE from [lxle.net](http://lxle.net/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6DTaQar1mSI" frameborder="0" allowfullscreen></iframe>
