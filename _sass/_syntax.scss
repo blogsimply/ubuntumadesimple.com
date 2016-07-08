@@ -1,6 +1,7 @@
 
-.highlight {
-	background: #ffffff;
+.highlight, .highlighter-rouge {
+	background: #f9fbfc;
+	padding: 0 15px;
 	.c { color: #999988; font-style: italic } /* Comment */
 	.err { color: #a61717; background-color: #e3d2d2 } /* Error */
 	.k { font-weight: bold } /* Keyword */
